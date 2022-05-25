@@ -1,0 +1,5 @@
+Exercise,High
+Eat Healthy,High
+Unproductive Activity,High
+Study,Medium
+Downtime,High
